@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "05427430-633a-34a3-9f70-6c470496f23d",
+    "name": "xiaolong_192",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b985271c-831a-3a5f-b473-3d27409ae217",
+    "name": "XiaoLong_192",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "56bacab5-8f7d-4145-8c20-503796ead06f",
+    "name": "XiaoLong_192",
+    "level": 4,
+    "bypassesPlayerLimit": true
+  }
+]
